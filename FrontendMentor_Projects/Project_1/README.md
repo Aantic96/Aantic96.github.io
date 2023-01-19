@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author] (#author)
+- [Author] (#Author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Aantic96/Aantic96.github.io/tree/main/FrontendMentor_Projects/Project_1)
+- Live Site URL: [Github Page](https://aantic96.github.io/FrontendMentor_Projects/Project_1/index.html)
 
 ## My process
 
