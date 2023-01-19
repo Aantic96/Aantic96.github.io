@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author] (#Author)
+- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
