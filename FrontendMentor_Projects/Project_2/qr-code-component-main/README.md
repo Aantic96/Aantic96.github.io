@@ -27,8 +27,8 @@ This is my 2nd project on Frontend mentor. It is even easier than the first one,
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Aantic96/Aantic96.github.io/tree/main/FrontendMentor_Projects/Project_2/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://aantic96.github.io/FrontendMentor_Projects/Project_2/qr-code-component-main/index.html)
+- Solution URL: [Github repo](https://github.com/Aantic96/Aantic96.github.io/tree/main/FrontendMentor_Projects/Project_2/qr-code-component-main)
+- Live Site URL: [Github pages](https://aantic96.github.io/FrontendMentor_Projects/Project_2/qr-code-component-main/index.html)
 
 ## My process
 
