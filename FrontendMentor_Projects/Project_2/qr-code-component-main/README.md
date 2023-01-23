@@ -21,8 +21,8 @@ This is my 2nd project on Frontend mentor. It is even easier than the first one,
 
 ### Screenshot
 
-![Desktop](/screenshots/Screenshot%202023-01-23%20at%2016-06-54%20Frontend%20Mentor%20QR%20code%20component.png)
-![Mobile](/screenshots/Screenshot%202023-01-23%20at%2016-07-13%20Frontend%20Mentor%20QR%20code%20component.png)
+![Desktop](/screenshots/desktop.png)
+![Mobile](/screenshots/mobile.png)
 
 
 ### Links
