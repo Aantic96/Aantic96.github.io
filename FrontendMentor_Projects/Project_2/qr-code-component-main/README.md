@@ -21,8 +21,8 @@ This is my 2nd project on Frontend mentor. It is even easier than the first one,
 
 ### Screenshot
 
-![Desktop](/screenshots/desktop.png)
-![Mobile](/screenshots/mobile.png)
+![Desktop](./screenshots/desktop.png)
+![Mobile](./screenshots/mobile.png)
 
 
 ### Links
